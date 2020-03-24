@@ -1,0 +1,234 @@
+{
+  "users": [
+    {
+      "username": "angga",
+      "password": "mantap",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "username": "budi",
+      "password": "itu",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "username": "anggas",
+      "password": "mantap",
+      "role": "user",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "Nourish Life Chicken for Dogs 1.8 kg",
+      "image": "http://balipetshop.co.id/upload/item/1VJMW6jzvnjpnl0IXUmA.jpeg",
+      "stok": 5,
+      "kategoriId": 1,
+      "harga": 260000,
+      "deskripsi": "Nurture Pro Nourish Life Chicken Formula sangat ideal untuk anak anjing dan anjing pekerja dewasa. Protein berkualitas dan asam amino dari Dada Ayam dan Salmon Segar, Dikukus seluruh Oats dan Barley untuk pengisian energi yang luar biasa untuk tumbuh dan anjing aktif, vitamin dan mineral dari pertanian sayuran segar dan buah-buahan yang mendukung seluruh kesehatan",
+      "id": 2
+    },
+    {
+      "name": "Nourish Life Salmon for Adult 5,7 kg",
+      "image": "http://balipetshop.co.id/upload/item/B5D62nmTOudkHwV2CPRj.jpeg",
+      "stok": 10,
+      "kategoriId": 1,
+      "harga": 720000,
+      "deskripsi": "Makanan anjing dengan daging salmon segar yang mengandung Omega 3 dan 6. Cocok untuk anjing senior dengan pencernaan yang sensitif",
+      "id": 3
+    },
+    {
+      "name": "Blackhawk Puppy Lamb and Rice 3 kg",
+      "image": "http://balipetshop.co.id/upload/item/dTIKLH3osPSLWNrfAaLc.jpeg",
+      "stok": 15,
+      "kategoriId": 1,
+      "harga": 325000,
+      "deskripsi": "For puppies on the go, this lamb and rice formula provides digestible energy and essential nutrition for growing puppies. The blend of Australian sourced oats and rice for energy output are supplemented by the freshest vegetables and fruits to deliver rich antioxidants that support their immunity.",
+      "id": 4
+    },
+    {
+      "name": "Daily Delight Dog Beef and Veggy 180 kg",
+      "image": "http://balipetshop.co.id/upload/item/UhxkLoSnG8bIWgjjSDnv.png",
+      "stok": 30,
+      "kategoriId": 1,
+      "harga": 18000,
+      "deskripsi": "Penuh dengan otentik rasa sapi, dan kebaikan vitamin dan mineral dari sayuran segar. Ini adalah makanan yang baik untuk hewan Anda! Dibuat dengan daging sapi, sumber energi bagi anjing yang aktif. Sebuah diet seimbang yang menggabungkan protein dari daging sapi, dengan vitamin dan mineral dari sayuran. Mengandung daging sapi berkualitas tinggi dan segar, sayuran yang kaya vitamin",
+      "id": 5
+    },
+    {
+      "name": "Miglior Cane Chicken and Turkey 1250 gr",
+      "image": "http://balipetshop.co.id/upload/item/WT6MyJLmtHFRWY4Ye1dR.png",
+      "stok": 25,
+      "kategoriId": 1,
+      "harga": 38000,
+      "deskripsi": "Daging kaleng yang paling digemari oleh anjing Anda yang dibuat dengan Wellness System formula yang dikembangkan oleh ahli gizi hewan untuk memastikan semua nutrisi yang dibutuhkan untuk kesehatan dan kesejahteraan anjing Anda.",
+      "id": 6
+    },
+    {
+      "name": "Wellness Healthy Balance Kitten Chicken & Peas 1.5 kg",
+      "image": "http://balipetshop.co.id/upload/item/ydJxdZXFBvec2awGf3Ab.jpeg",
+      "stok": 20,
+      "kategoriId": 2,
+      "harga": 180000,
+      "deskripsi": "Good Nutrition Starts with Balance. Giving your pet everything they need for a healthy, happy life. Why Choose Healthy Balance? Only Wholefood Ingredients. Real Wholesome Ingredients. No By - Product, No Tapioca, Nothing Artificial. Perfectly balanced nutrition. Concentrated proteins, quality fats and wholesome carbohydrates",
+      "id": 7
+    },
+    {
+      "name": "Royal Canin Kitten Persian 2kg",
+      "image": "http://balipetshop.co.id/upload/item/wSLCHlKvLlEMCVAlKRyF.jpeg",
+      "stok": 20,
+      "kategoriId": 2,
+      "harga": 250000,
+      "deskripsi": "Untuk kitten Kucing Persian 1 - 4 bulan. Meningkatkan Sistem Kekebalan Tubuh. Membantu Transisi Kucing. Mudah dicerna dan tekstur dan Formula Unik",
+      "id": 8
+    },
+    {
+      "name": "Blackwood Adult Cat Chicken and Rice 6 kg",
+      "image": "http://balipetshop.co.id/upload/item/IDBXvkUv5My9Z79Xx4oK.jpeg",
+      "stok": 5,
+      "kategoriId": 2,
+      "harga": 570000,
+      "deskripsi": "INGREDIENTS: Chicken Meal, Brown Rice, Ground Grain Sorghum, Millet, Chicken Fat (Preserved with Mixed Tocopherols), Egg Product, Herring Meal, Brewers Dried Yeast, Dried Plain Beet Pulp, Natural Flavor, Whole Ground Flaxseed, Menhaden Fish Oil, Lecithin, Carrot, Celery, Beet, Parsley, Lettuce, Watercress, Spinach, DL-Methionine, Potassium Chloride, L-Lysine, Salt, Taurine, Choline Chloride, Cranberry, Calcium Carbonate, Yucca Schidigera Extract, Monosodium Phosphate, Vitamin E Supplement, Niacin Supplement, Organic Dried Kelp, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, Ascorbic Acid, Biotin, d-Calcium Pantothenate, Vitamin B12 Supplement, Vitamin A Acetate, Vitamin D3 Supplement, Citric Acid, Folic Acid, Iron Sulfate, Zinc Sulfate, Zinc Proteinate, Iron Proteinate, Copper Sulfate, Zinc Oxide, Manganese Sulfate, Manganese Proteinate, Copper Proteinate, Manganous Oxide, Sodium Selenite, Calcium Iodate.",
+      "id": 9
+    },
+    {
+      "name": "Daily Delight Mousse with Chicken 80 gr",
+      "image": "http://balipetshop.co.id/upload/item/orEfrQcRcuBs4PanDi3l.jpeg",
+      "stok": 23,
+      "kategoriId": 2,
+      "harga": 19000,
+      "deskripsi": "Happy meals,happier pets. Mousse. Hydration Plus. Easy Digestion. Eye and Heart protection",
+      "id": 10
+    },
+    {
+      "name": "Power Cat Salmon Chicken 400 gr",
+      "image": "http://balipetshop.co.id/upload/item/pq1wk2REyGZI8OKpA2ny.jpeg",
+      "stok": 10,
+      "kategoriId": 2,
+      "harga": 25000,
+      "deskripsi": "Powercat dibuat dari ikan segar yang dipilih. Kualitas produk memenuhi kualitas standar tinggi dan dijamin bebas dari bahan-bahan terlarang dan meragukan. Setiap kemasan mengandung kombinasi vitamin dan mineral yang lengkap untuk memastikan kucing anda sehat dan aktif sepanjang usianya.",
+      "id": 11
+    },
+    {
+      "name": "Kong Squeek Air Ball with Rope Medium",
+      "image": "http://balipetshop.co.id/upload/item/FsALsIBXTrkIS5Ybq9Bx.jpeg",
+      "stok": 5,
+      "kategoriId": 3,
+      "harga": 70000,
+      "deskripsi": "Ideal for games of fetch, squeaker to induce play and non-abrasive tennis material will not wear down your dog's teeth",
+      "id": 12
+    },
+    {
+      "name": "Cat Teaser Snail",
+      "image": "http://balipetshop.co.id/upload/item/2ohn18VDU8H0E9TQ4kDq.jpeg",
+      "stok": 9,
+      "kategoriId": 3,
+      "harga": 26000,
+      "deskripsi": "Dengan desain yang menarik akan mendorong kucing Anda menjadi gila tentang hal itu. Membangkitkan sifat kucing Anda berburu, melacak dan bermain. interaksi yang lebih harmonis dengan kucing Anda. Membawa Anda gaya hidup ekologis dan lebih bertanggung jawab asli.",
+      "id": 13
+    },
+    {
+      "name": "Cat Plush Catnip Skunk Grey",
+      "image": "http://balipetshop.co.id/upload/item/KogPPhSHIp96nWjIR8Mf.jpeg",
+      "stok": 15,
+      "kategoriId": 3,
+      "harga": 65000,
+      "deskripsi": "Mainan khusus untuk kucing dengan bentuk yang unik pastinya akan menarik perhatian mereka dan membuat mereka asik bermain, selain itu  kedekatan anda dan kucing anda semakin terjalin baik.",
+      "id": 14
+    },
+    {
+      "name": "Pet Tearless Shampoo 13-1/2-ounce",
+      "image": "http://balipetshop.co.id/upload/item/D1VGET2TD4i9Xo3DRv0c.jpeg",
+      "stok": 10,
+      "kategoriId": 4,
+      "harga": 140000,
+      "deskripsi": "Recommended for puppies, kittens, dogs, cats and sensitive pets of all kinds. Will not sting the eyes and is 100% safe. Leaves the coat and skin soft and clean. Dilutes 12-1.",
+      "id": 15
+    },
+    {
+      "name": "Maxima Puppy 500 ml",
+      "image": "http://balipetshop.co.id/upload/item/b85js8U7r5kXVIfENzKb.jpeg",
+      "stok": 20,
+      "kategoriId": 4,
+      "harga": 90000,
+      "deskripsi": "Sampo untuk anak anjing",
+      "id": 16
+    },
+    {
+      "name": "Bed Kotak",
+      "image": "http://balipetshop.co.id/upload/item/yw4NAMMc2dUX0wD6gPI9.jpeg",
+      "stok": 5,
+      "kategoriId": 5,
+      "harga": 400000,
+      "deskripsi": "Ini merupakan tempat tidur dengan ukuran medium (L). Tempat tidur ini memiliki ukuran panjang 65 cm x lebar 55 cm x tinggi 50 cm. Kandang ini memiliki 1 model pilihan saja",
+      "id": 17
+    },
+    {
+      "name": "Kandang Kucing Bak Plastik",
+      "image": "http://balipetshop.co.id/upload/item/jyjJaLt211hAQlfclANQ.jpeg",
+      "stok": 3,
+      "kategoriId": 5,
+      "harga": 1200000,
+      "deskripsi": "Kandang untuk kucing dengan ukuran Panjang 65 cm , lebar 42 cm dan tinggi 96 cm",
+      "id": 18
+    },
+    {
+      "name": "Tempat Makan Bona Melamine",
+      "image": "http://balipetshop.co.id/upload/item/sW2NQGUjqhgSWK1dxWBh.jpeg",
+      "stok": 10,
+      "kategoriId": 5,
+      "harga": 50000,
+      "deskripsi": "Tempat makan untuk anjing medium",
+      "id": 19
+    }
+  ],
+  "kategoris": [
+    {
+      "id": 1,
+      "nama": "Dog Food"
+    },
+    {
+      "id": 2,
+      "nama": "Cat Food"
+    },
+    {
+      "id": 3,
+      "nama": "Toys"
+    },
+    {
+      "id": 4,
+      "nama": "Grooming"
+    },
+    {
+      "id": 5,
+      "nama": "Accessories"
+    }
+  ],
+  "transactions": [
+    {
+      "status": "oncart",
+      "userId": 7,
+      "id": 2
+    },
+    {
+      "status": "oncart",
+      "userId": 2,
+      "id": 3
+    }
+  ],
+  "transactiondetails": [
+    {
+      "transactionId": 2,
+      "productId": 17,
+      "qty": 3,
+      "id": 5
+    },
+    {
+      "transactionId": 3,
+      "productId": 4,
+      "qty": 5,
+      "id": 6
+    }
+  ]
+}
